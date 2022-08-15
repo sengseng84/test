@@ -1,23 +1,25 @@
-[
-    {
-        "id": 1,
-        "name": "Royal Mile Whiskies",
-        "country": "UK",
-        "website": "https://www.royalmilewhiskies.com",
-        "currency": 1
-    },
-    {
-        "id": 2,
-        "name": "Abbey Whisky",
-        "country": "UK",
-        "website": "https://www.abbeywhisky.com/",
-        "currency": 1
-    },
-    {
-        "id": 3,
-        "name": "Still Spirit",
-        "country": "UK",
-        "website": "https://www.stillspirit.co.uk/",
-        "currency": 1
-    }
-]
+{
+    "shops": [
+        {
+            "id": 1,
+            "name": "Royal Mile Whiskies",
+            "country": "UK",
+            "website": "https://www.royalmilewhiskies.com",
+            "currency": 1
+        },
+        {
+            "id": 2,
+            "name": "Abbey Whisky",
+            "country": "UK",
+            "website": "https://www.abbeywhisky.com/",
+            "currency": 1
+        },
+        {
+            "id": 3,
+            "name": "Still Spirit",
+            "country": "UK",
+            "website": "https://www.stillspirit.co.uk/",
+            "currency": 1
+        }
+    ]
+}
